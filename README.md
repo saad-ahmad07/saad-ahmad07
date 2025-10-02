@@ -12,7 +12,7 @@
 
 ### A Machine Learning developer passionate about building models that solve real world problems.
 
-- 🌱 I’m currently learning **[LoRA/QLoRA](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 🌱 I’m currently learning **[LoRA/QLoRA](https://towardsdatascience.com/llm-optimization-lora-and-qlora/)**
 - 💬 Ask me about **Python, Machine Learning, Data Preprocessing...or anything [here](https://github.com/saad-ahmad07/saad-ahmad07/issues)**
 
 <br>
@@ -27,5 +27,16 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr>
+
+## Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,sklearn,django,nodejs,js,cpp,postgres,mysql,supabase,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,sass,git,postman,linux" />
+</p>
 
 <hr>
