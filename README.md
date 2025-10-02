@@ -35,9 +35,33 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,sklearn,django,nodejs,js,cpp,postgres,mysql,supabase,mongodb,redis&perline=8" />
-  <img src="https://skillicons.dev/icons?i=docker,sass,git,postman,linux" />
+  <!-- Row 1 (8 icons) -->
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,sklearn,django,nodejs,js,cpp" />
+  <br><br>
+
+  <!-- Row 2 (5 icons) -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb,redis" />
+  <br><br>
+
+  <!-- Row 3 (3 icons) -->
+  <img src="https://skillicons.dev/icons?i=docker,sass,git" />
+  <br><br>
+
+  <!-- Row 4 (1 icon) -->
+  <img src="https://skillicons.dev/icons?i=postman,linux" />
+  <br>
 </p>
+
+<hr>
+
+## Stats
+
+<br>
+
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=saad-ahmad07&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Saad's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=saad-ahmad07&theme=transparent&count_private=true&border_radius=10&locale=en" />
+</div>
 
 <hr>
 
@@ -45,21 +69,5 @@
 
 <br>
 
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://your-hosted-image-link.com/football-reading.png" alt="Football and Reading" width="500"/>
-</div>
-
-<br>
-
 - ⚽ I love to play and watch football (soccer)  
 - 📚 I enjoy reading books — fiction and non-fiction alike.
-
-<hr>
-
