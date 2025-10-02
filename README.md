@@ -60,15 +60,15 @@
 
 - 🤖 **Zaimax – AI Agent Platform**  
   Built an AI Agent platform empowering users to create, monetize, and interact with intelligent agents. Used FastAPI backend, OpenAI agents, Stripe subscriptions, and Supabase database for a seamless, scalable experience.  
-  [GitHub Repo](#)
+  [GitHub Repo](https://github.com/saad-ahmad07/zaimax)
 
 - 📞 **AI Call Hub (CallPilot)**  
   Developed a subscription-based AI-powered calling platform with customizable AI phone agents for business support. Features include smart call routing, Google Calendar integration, real-time dashboards, and Stripe billing. Tech stack: VAPI, Twilio, Supabase.  
   [GitHub Repo](#)
 
-- 🎮 **Multimodal Game Genre Classification System**  
-  Created a dual-model classifier using transformers and CNNs to identify video game genres from text descriptions and cover art. Built with PyTorch, Hugging Face, and OpenCV, trained on real-world data from Steam.  
-  [GitHub Repo](#)
+- 🎮 **Multimodal Move Genre Classification System**  
+  Created a dual-model classifier using transformers and CNNs to identify movie genres from text descriptions and cover art. Built with PyTorch, Hugging Face, and OpenCV, trained on real-world data from Steam.  
+  [GitHub Repo](https://github.com/saad-ahmad07/movie-genre-classification)
 
 - 💊 **MedOrderBot (Copilot)**  
   An intelligent agent system for processing medication orders and patient calls, generating summaries and automating workflows from call transcriptions.  
