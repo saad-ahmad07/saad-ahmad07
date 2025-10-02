@@ -54,6 +54,39 @@
 
 <hr>
 
+## Featured Projects
+
+<br>
+
+- 🤖 **Zaimax – AI Agent Platform**  
+  Built an AI Agent platform empowering users to create, monetize, and interact with intelligent agents. Used FastAPI backend, OpenAI agents, Stripe subscriptions, and Supabase database for a seamless, scalable experience.  
+  [GitHub Repo](#)
+
+- 📞 **AI Call Hub (CallPilot)**  
+  Developed a subscription-based AI-powered calling platform with customizable AI phone agents for business support. Features include smart call routing, Google Calendar integration, real-time dashboards, and Stripe billing. Tech stack: VAPI, Twilio, Supabase.  
+  [GitHub Repo](#)
+
+- 🎮 **Multimodal Game Genre Classification System**  
+  Created a dual-model classifier using transformers and CNNs to identify video game genres from text descriptions and cover art. Built with PyTorch, Hugging Face, and OpenCV, trained on real-world data from Steam.  
+  [GitHub Repo](#)
+
+- 💊 **MedOrderBot (Copilot)**  
+  An intelligent agent system for processing medication orders and patient calls, generating summaries and automating workflows from call transcriptions.  
+  [GitHub Repo](#)
+
+- 📈 **Trading Bot**  
+  Built a spot trading bot with Binance testnet and MEXC API support, featuring a Streamlit dashboard and loss recovery mechanisms, deployed on Railway.  
+  [GitHub Repo](#)
+
+- 🎓 **TradeQuest — Educational Stock Market Simulator**  
+  Developed a React-based trading simulator integrated with Supabase and Learn Worlds for financial literacy education, featuring gamified progress tracking and admin dashboards.  
+  [GitHub Repo](#)
+
+<br>
+
+<hr>
+
+
 ## Stats
 
 <br>
