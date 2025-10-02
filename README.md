@@ -35,8 +35,31 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,sklearn,django,nodejs,js,cpp,postgres,mysql,supabase,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,sklearn,django,nodejs,js,cpp,postgres,mysql,supabase,mongodb,redis&perline=8" />
   <img src="https://skillicons.dev/icons?i=docker,sass,git,postman,linux" />
 </p>
 
 <hr>
+
+## What I Enjoy Beyond Programming
+
+<br>
+
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://your-hosted-image-link.com/football-reading.png" alt="Football and Reading" width="500"/>
+</div>
+
+<br>
+
+- ⚽ I love to play and watch football (soccer)  
+- 📚 I enjoy reading books — fiction and non-fiction alike.
+
+<hr>
+
