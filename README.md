@@ -12,7 +12,7 @@
 
 ### A Machine Learning developer passionate about building models that solve real world problems.
 
-- 🌱 I’m currently learning **[LoRA/QLoRA](https://towardsdatascience.com/llm-optimization-lora-and-qlora/)**
+- 🌱 I’m currently learning **[Terraform (IaaC)](https://developer.hashicorp.com/terraform/docs)**
 - 💬 Ask me about **Python, Machine Learning, Data Preprocessing...or anything [here](https://github.com/saad-ahmad07/saad-ahmad07/issues)**
 
 <br>
@@ -58,6 +58,10 @@
 
 <br>
 
+- 🤖 **AgentAssist – CSR Copilot**  
+  AgentAssist is an AI-powered support copilot built for insurance customer service representatives (CSRs). The platform uses a multi-agent orchestration architecture where specialized agents handle different domains such as transactions, policy status, and insurance knowledge, enabling fast and context-aware assistance for customer interactions. 
+  [GitHub Repo](https://github.com/saad-ahmad07/agent-assist)
+  
 - 🤖 **Zaimax – AI Agent Platform**  
   Built an AI Agent platform empowering users to create, monetize, and interact with intelligent agents. Used FastAPI backend, OpenAI agents, Stripe subscriptions, and Supabase database for a seamless, scalable experience.  
   [GitHub Repo](https://github.com/saad-ahmad07/zaimax)
